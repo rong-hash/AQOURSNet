@@ -1,0 +1,17 @@
+dataset,shapelet_num,shapelet_len,train_acc,test_acc
+BeetleFly,0.500000,0.500000
+Coffee,0.500000,0.535714
+DistalPhalanxOutlineCorrect,0.440000,0.583333
+Earthquakes,0.754658,0.748201
+ECG200,0.700000,0.640000
+FordA,0.000000,0.515909
+Ham,0.522936,0.514286
+ShapeletSim,0.500000,0.533333
+SonyAIBORobotSurface1,0.300000,0.570715
+SonyAIBORobotSurface2,0.555556,0.616999
+Strawberry,0.572594,0.643243
+ToeSegmentation1,0.500000,0.552632
+TwoLeadECG,0.478261,0.500439
+Wafer,0.592000,0.892116
+WormsTwoClass,0.535912,0.571429
+Yoga,0.543333,0.535667
