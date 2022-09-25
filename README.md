@@ -1,5 +1,6 @@
 # AQOURSNet: Time2Graph Rework
 
+## Contributor
 [Ziyuan Chen](mailto:ziyuan.20@intl.zju.edu.cn), [Zhirong Chen](mailto:zhirong.20@intl.zju.edu.cn) | July 2022<br>
 Summer Research @ [Yang Yang](https://person.zju.edu.cn/yangy) [Lab](http://yangy.org/), Zhejiang University
 
